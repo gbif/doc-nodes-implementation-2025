@@ -1,4 +1,4 @@
-https://docs.gbif-uat.org/nodes-implementation-2025/[image:https://docs.gbif-uat.org/nodes-implementation-2025/gbif-document-shield.svg[GBIF Document]]
+https://docs.gbif.org/documentation-guidelines/[image:https://docs.gbif.org/documentation-guidelines/gbif-document-shield.svg[GBIF Document]]
 https://doi.org/10.35035/doc-be3q-c531[image:https://zenodo.org/badge/DOI/10.35035/doc-be3q-c531.svg[doi:10.35035/doc-be3q-c531]]
 https://creativecommons.org/licenses/by-sa/4.0/[image:https://img.shields.io/badge/License-CC%20BY%2D-SA%204.0-lightgrey.svg[CC BY-SA 4.0]]
 https://builds.gbif.org/job/doc-nodes-implementation-2025/lastBuild/console[image:https://builds.gbif.org/job/doc-nodes-implementation-2025/badge/icon[Build status]]
