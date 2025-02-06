@@ -1,0 +1,19 @@
+The 2025 Nodes Implementation Plan has been prepared with the https://www.gbif.org/contact-us/directory?group=nsg[Nodes Steering Group^] in December 2024 and approved in January 2025. It is an update to the https://doi.org/10.35035/doc-091z-ck64[2024 Nodes Implementation Plan^] and aligns with https://www.gbif.org/document/50lI7Bxn2p1vRgpbs7aXaT/[GBIF Strategic Framework 2023-2027^]. It provides a framework for discussions at the Regional Nodes Meetings.
+
+== Rationale
+
+Since the 15th Global Nodes Meeting (October 2019 at GB26 in Leiden), the https://www.gbif.org/contact-us/directory?group=nodesCommittee[Nodes Committee^], led by the https://www.gbif.org/contact-us/directory?group=nsg[Nodes Steering Group^] (NSG), has identified priority objectives to guide the global efforts of the nodes.
+
+These nodes strategies are implemented by the Nodes Committee with the support of the Secretariat under the supervision of the NSG. They also provide a framework for discussions at the Global Nodes Meetings and Regional Nodes Meetings. At the end of the year, the NSG will assess the progress towards these strategic objectives.
+
+The global objectives are aligned with GBIF’s strategic framework and implementation plan. Regions are welcome to add their own objectives. Different regions might have different approaches and activities to reach the common strategic objectives. For this reason, the activities under each objective should be considered as a non-exhaustive list of suggestions that might differ regionally.
+
+== The strategic objectives
+
+. https://docs.gbif.org/nodes-implementation-2025/en/#1-engage-research-communities-for-data-mobilization-and-use[Engage research communities for data mobilization and use^]
+. https://docs.gbif.org/nodes-implementation-2025/en/#2-support-national-biodiversity-commitments-and-the-science-policy-interface[Support national biodiversity commitments and the science-policy interface^]
+. https://docs.gbif.org/nodes-implementation-2025/en/#3-promote-open-biodiversity-data-approaches-within-the-business-and-finance-sectors[Promote open biodiversity data approaches within the business and finance sectors^]
+. https://docs.gbif.org/nodes-implementation-2025/en/#4-Support-node-development%E2%80%93through-knowledge-sharing-and-mobility-of-skills[Support node development through knowledge sharing and mobility of skills^]
+. https://docs.gbif.org/nodes-implementation-2025/en/#5-develop-capacity-within-regional-communities-of-practice[Develop capacity within regional communities of practice^]
+. https://docs.gbif.org/nodes-implementation-2025/en/#6-strengthen-support-services-for-collection-communities[Strengthen support services for collection communities^]
+. https://docs.gbif.org/nodes-implementation-2025/en/#7-contribute-to-data-model-enhancements[Contribute to data model enhancements^]
