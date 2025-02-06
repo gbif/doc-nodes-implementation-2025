@@ -1,4 +1,4 @@
-https://docs.gbif.org/nodes-implementation-2025/[image:https://docs.gbif.org/nodes-implementation-2025/gbif-document-shield.svg[GBIF Document]]
+https://docs.gbif-uat.org/nodes-implementation-2025/[image:https://docs.gbif.org/nodes-implementation-2025/gbif-document-shield.svg[GBIF Document]]
 // DOI badge: If you have a DOI, remove the comment ("// ") from the line below, change "10.EXAMPLE/EXAMPLE" to the DOI in all three places, and remove this line.
 // https://doi.org/10.EXAMPLE/EXAMPLE[image:https://zenodo.org/badge/DOI/10.EXAMPLE/EXAMPLE.svg[doi:10.EXAMPLE/EXAMPLE]]
 https://creativecommons.org/licenses/by-sa/4.0/[image:https://img.shields.io/badge/License-CC%20BY%2D-SA%204.0-lightgrey.svg[CC BY-SA 4.0]]
@@ -6,8 +6,8 @@ https://builds.gbif.org/job/doc-nodes-implementation-2025/lastBuild/console[imag
 
 = GBIF Nodes Implementation Plan 2025
 
-This strategy has been prepared with the Nodes Steering Group in December 2022 to align with GBIF’s new https://www.gbif.org/document/50lI7Bxn2p1vRgpbs7aXaT/[strategic framework^]. Following comments from the nodes, this final version was approved by the Nodes Steering Group in February 2024.
+These node strategies have been prepared with the https://www.gbif.org/contact-us/directory?group=nsg[Nodes Steering Group^] in December 2024 and approved in January 2025. They align with the https://www.gbif.org/document/50lI7Bxn2p1vRgpbs7aXaT/[GBIF strategic framework 2023-2027^] and also provide a framework for discussions at the Global Nodes Meetings and Regional Nodes Meetings.
 
-The document is available as HTML and PDF at https://docs.gbif.org/en/doc-nodes-implementation-2024[GBIF Nodes Implementation Plan 2024].
+The document is available as HTML and PDF at https://docs.gbif-uat.org/en/doc-nodes-implementation-2025[GBIF Nodes Implementation Plan 2025].
 
-The document is built using AsciiDoc, for guidance on how to make changes or suggestions see the https://docs.gbif.org/documentation-guidelines/[GBIF Documentation Guidelines].
+The document is built using AsciiDoc, for guidance on how to make changes or suggestions see the https://docs.gbif.org/documentation-guidelines/[GBIF Documentation Guidelines^].
