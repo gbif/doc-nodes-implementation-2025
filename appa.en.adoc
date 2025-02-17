@@ -1,14 +1,7 @@
 [appendix]
-== Example
+== Participant plans 2025
 
-An AsciiDoc appendix is just a document section with a 'specialsection' title.
+Towards the end of each year, the GBIF Secretariat asks Participants to outline any work they have aligned to the priority areas identified in the GBIF’s work programme for the upcoming year. This appendix includes the plans Participants provided for 2024.
 
-Place non-essential information that supports your analysis, validates your conclusions or pursues a related point in an appendix. Examples could include: 
-
-* figures/tables/charts/graphs of results
-* statistics
-* questionnaires 
-* transcripts of interviews
-* survey results
-* maps
-* software installation instructions
+[[plans-priority-1]]
+=== Priority Area 1
