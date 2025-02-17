@@ -7,6 +7,6 @@ https://builds.gbif.org/job/doc-nodes-implementation-2025/lastBuild/console[imag
 
 These node strategies have been prepared with the https://www.gbif.org/contact-us/directory?group=nsg[Nodes Steering Group^] in December 2024 and approved in January 2025. They align with the https://www.gbif.org/document/50lI7Bxn2p1vRgpbs7aXaT/[GBIF strategic framework 2023-2027^] and also provide a framework for discussions at the Global Nodes Meetings and Regional Nodes Meetings.
 
-The document is available as HTML and PDF at https://docs.gbif-uat.org/en/doc-nodes-implementation-2025[GBIF Nodes Implementation Plan 2025].
+The document is available as HTML and PDF at https://docs.gbif-uat.org/nodes-implementation-2025[GBIF Nodes Implementation Plan 2025].
 
 The document is built using AsciiDoc, for guidance on how to make changes or suggestions see the https://docs.gbif.org/documentation-guidelines/[GBIF Documentation Guidelines^].
