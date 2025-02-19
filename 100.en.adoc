@@ -10,7 +10,7 @@ Nodes are encouraged to:
 
 * Engage with scientific leaders in biodiversity sciences to build and develop a scientific community around the node. The https://www.gbif.org/resource/search?contentType=literature&literatureType=journal&relevance=GBIF_USED&peerReview=true[country filter] of literature tracking and annual https://www.gbif.org/science-review[_Science Review_] can help identify active users of GBIF-mediated data in the country.
 * Encourage local researchers to join the https://www.gbif.org/ambassadors[biodiversity open data ambassadors programme^]. Cultivate active relationships between the node and ambassadors to promote GBIF data use in research through national and regional conferences and other relevant fora.
-* Explore and consider participating in the https://www.gbif.org/news/3gm3lJaUQgTKZJRm6TiBff/[pilot DNA metabarcoding data programme^]to improve GBIF’s integration of DNA metabarcoding data on biodiversity. 
+* Explore and consider participating in the https://www.gbif.org/news/3gm3lJaUQgTKZJRm6TiBff/[pilot DNA metabarcoding data programme^] to improve GBIF’s integration of DNA metabarcoding data on biodiversity. 
 * Explore publishing event-based survey and monitoring data with Humboldt extension.
 * Organize national or thematic events targeting research communities, including focus on training for DNA derived data and GBIF (see available https://doi.org/10.35035/doc-vf1a-nr22[guide^] and https://www.gbif.org/training[training materials^]).
 * Promote and participate in data mobilization actions relating to thematic approaches, such as calls for data papers (see, for example, https://www.gbif.org/news/70AuWTs68FiGEZEyALB1TV/[current call for data papers relating to vectors of human diseases^]).
