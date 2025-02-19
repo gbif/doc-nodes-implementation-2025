@@ -14,7 +14,7 @@ The global objectives are aligned with GBIF’s strategic framework and implemen
 . <<#1-engage-research-communities-for-data-mobilization-and-use,Engage research communities for data mobilization and use>>
 . <<#2-support-national-biodiversity-commitments-and-the-science-policy-interface,Support national biodiversity commitments and the science-policy interface>>
 . <<#3-promote-open-biodiversity-data-approaches-within-the-business-and-finance-sectors,Promote open biodiversity data approaches within the business and finance sectors>>
-. <<#4-Support-node-development-through-knowledge-sharing-and-mobility-of-skills,Support node development through knowledge sharing and mobility of skills>>
+. <<#4-support-node-development-through-knowledge-sharing-and-mobility-of-skills,Support node development through knowledge sharing and mobility of skills>>
 . <<#5-develop-capacity-within-regional-communities-of-practice,Develop capacity within regional communities of practice>>
 . <<#6-strengthen-support-services-for-collection-communities,Strengthen support services for collection communities>>
 . <<#7-contribute-to-data-model-enhancements,Contribute to data model enhancements>>
