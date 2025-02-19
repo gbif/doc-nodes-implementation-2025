@@ -12,9 +12,9 @@ In the coming year, we intend to continue to expand the database. Also, to incor
 
 ==== Angola
 
-1) Workshops to evaluate and validate the data and information collected from institutions linked to biodiversity and the environment.
-2) Regional thematic seminars: ‘The use of the GBIF tool for the conservation, valorisation and dissemination of Angola's biodiversity’
-3) Trainers' seminar on digitalisation: “The use of technology in record time, mobilisation and publication of data”; and 4) National/regional training (capacity building) for potential holders of biodiversity information.
+. Workshops to evaluate and validate the data and information collected from institutions linked to biodiversity and the environment.
+. Regional thematic seminars: ‘The use of the GBIF tool for the conservation, valorisation and dissemination of Angola's biodiversity’
+. Trainers' seminar on digitalisation: “The use of technology in record time, mobilisation and publication of data”; and 4) National/regional training (capacity building) for potential holders of biodiversity information.
 
 ==== Argentina
 
