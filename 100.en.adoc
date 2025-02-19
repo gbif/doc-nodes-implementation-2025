@@ -8,7 +8,7 @@ Nodes play an essential role in engaging with researchers within their countries
 
 Nodes are encouraged to:
 
-* Engage with scientific leaders in biodiversity sciences to build and develop a scientific community around the node. The https://www.gbif.org/data-use[country filter of literature tracking and annual ]https://www.gbif.org/data-use[_Science Review]_ can help identify active users of GBIF-mediated data in the country.
+* Engage with scientific leaders in biodiversity sciences to build and develop a scientific community around the node. The https://www.gbif.org/resource/search?contentType=literature&literatureType=journal&relevance=GBIF_USED&peerReview=true[country filter] of literature tracking and annual https://www.gbif.org/data-use[_Science Review_] can help identify active users of GBIF-mediated data in the country.
 * Encourage local researchers to join the https://www.gbif.org/ambassadors[biodiversity open data ambassadors programme^]. Cultivate active relationships between the node and ambassadors to promote GBIF data use in research through national and regional conferences and other relevant fora.
 * Explore and consider participating in the https://www.gbif.org/news/3gm3lJaUQgTKZJRm6TiBff/[pilot DNA metabarcoding data programme^]to improve GBIF’s integration of DNA metabarcoding data on biodiversity. 
 * Explore publishing event-based survey and monitoring data with Humboldt extension.
@@ -96,7 +96,7 @@ Nodes are encouraged to:
 * Contribute actively to updating GRSciColl and engaging institutions with collections and relevant societies and networks in data mobilization.
 * Participate actively in the 2025 https://scientific-collections.gbif.org/road-map[GRSciColl road map] focus on content enrichment for collection descriptors
 * Support the development of https://www.gbif.org/hosted-portals[hosted portals] for collections.
-* Test and provide feedback to training materials developed by GBIFS, and promote training with relevant editor groups
+* Test and provide feedback to training materials developed by GBIFS, and promote training with relevant editor groups.
 
 === 7. Contribute to data model enhancements
 
