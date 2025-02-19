@@ -154,7 +154,7 @@ Besides maintaining our ongoing activities regarding support for data publishers
 
 ==== Tajikistan
 
-This year I'm trying to do my best that Tajikistan stay voting country in GBIF and as I am Node Manager for GBIF in Tajikistan 🇹🇯 its very important for my GBIF team in Tajikistan and totally in Central Asia 🌏.
+This year I'm trying to do my best that Tajikistan stay voting country in GBIF and as I am Node Manager for GBIF in Tajikistan, its very important for my GBIF team in Tajikistan and totally in Central Asia.
 
 [[plans-priority-2]]
 === Priority Area 2
@@ -281,7 +281,7 @@ Besides maintaining our ongoing activities regarding support for data publishers
 
 ==== Tajikistan
 
-Writing regional projects for capacity building in Central Asia 🌏 Region. More different data publications.
+Writing regional projects for capacity building in Central Asia Region. More different data publications.
 
 ==== United Kingdom
 
@@ -417,7 +417,7 @@ Besides maintaining our ongoing activities regarding support for data publishers
 
 ==== Tajikistan
 
-Opening Host portal in Tajikistan 🇹🇯
+Opening Host portal in Tajikistan.
 
 ==== United Kingdom
 
