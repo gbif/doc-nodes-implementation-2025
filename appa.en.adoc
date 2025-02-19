@@ -12,7 +12,9 @@ In the coming year, we intend to continue to expand the database. Also, to incor
 
 ==== Angola
 
-1) Workshops to evaluate and validate the data and information collected from institutions linked to biodiversity and the environment.; 2) Regional thematic seminars: ‘The use of the GBIF tool for the conservation, valorisation and dissemination of Angola's biodiversity’; 3) Trainers' seminar on digitalisation: “The use of technology in record time, mobilisation and publication of data”; and 4) National/regional training (capacity building) for potential holders of biodiversity information.
+1) Workshops to evaluate and validate the data and information collected from institutions linked to biodiversity and the environment.
+2) Regional thematic seminars: ‘The use of the GBIF tool for the conservation, valorisation and dissemination of Angola's biodiversity’
+3) Trainers' seminar on digitalisation: “The use of technology in record time, mobilisation and publication of data”; and 4) National/regional training (capacity building) for potential holders of biodiversity information.
 
 ==== Argentina
 
@@ -99,17 +101,18 @@ NLBIF through the BMD project will contribute to the further development of comm
 ==== New Zealand
 
 Building on the progress made in 2024, GBIF New Zealand will continue to strengthen data mobilisation efforts and stakeholder engagement to enhance the accessibility and application of biodiversity data for research, policy, and decision-making.  A focus on mobilisation of data on alien invasive species remains a priority in 2025, as New Zealand seeks to improve its biosecurity and biodiversity management frameworks. Planned activities include:
-1. GBIF-NZ and NZOR Stakeholder Workshop. 
-  * A key initiative for 2025 is the GBIF-NZ and New Zealand Organisms Register (NZOR) workshop, aimed at engaging key stakeholders, government agencies, and data holders.
-  *	This workshop will serve as a platform to promote the value of GBIF in New Zealand and its role in enabling open biodiversity data, test and refine a national workplan for data mobilisation and strategy development, identify priority datasets for mobilisation, focusing on thematic areas such as invasive species, eDNA, and biodiversity monitoring.
-2. Strengthening Data Mobilisation Pathways
-  * Continued efforts will be made to enhance the mobilisation of biodiversity data via GBIF. 
-  * The New Zealand 2025 Work Programme will place particular emphasis on strengthening GBIF as part of our national data infrastructure and the use of GBIF biodiversity data into decision-making processes.
-3. Expanding data mobilisation to GBIF for pest management
-  * We will work across central and regional sector to extend current efforts to mobilise weeds and pest data to support NZ goals for system-wide prioritisation frameworks to tackle the increasing pressures of invasive and established pests.
-  * Support key agencies such as Ministry for Primary Industries (MPI) with the use of GBIF-mediated data in pest risk assessments and monitoring.
-4. Improve coverage and quality of data representation in GBIF from metabarcoding research and eDNA monitoring
-  * GBIF NZ node will support Wilderlab to progress plans to mobilise eDNA data to GBIF including development of data sharing agreements with partners and agencies.
+
+. GBIF-NZ and NZOR Stakeholder Workshop. 
+* A key initiative for 2025 is the GBIF-NZ and New Zealand Organisms Register (NZOR) workshop, aimed at engaging key stakeholders, government agencies, and data holders.
+* This workshop will serve as a platform to promote the value of GBIF in New Zealand and its role in enabling open biodiversity data, test and refine a national workplan for data mobilisation and strategy development, identify priority datasets for mobilisation, focusing on thematic areas such as invasive species, eDNA, and biodiversity monitoring.
+. Strengthening Data Mobilisation Pathways
+* Continued efforts will be made to enhance the mobilisation of biodiversity data via GBIF. 
+* The New Zealand 2025 Work Programme will place particular emphasis on strengthening GBIF as part of our national data infrastructure and the use of GBIF biodiversity data into decision-making processes.
+. Expanding data mobilisation to GBIF for pest management
+* We will work across central and regional sector to extend current efforts to mobilise weeds and pest data to support NZ goals for system-wide prioritisation frameworks to tackle the increasing pressures of invasive and established pests.
+* Support key agencies such as Ministry for Primary Industries (MPI) with the use of GBIF-mediated data in pest risk assessments and monitoring.
+. Improve coverage and quality of data representation in GBIF from metabarcoding research and eDNA monitoring
+* GBIF NZ node will support Wilderlab to progress plans to mobilise eDNA data to GBIF including development of data sharing agreements with partners and agencies.
 
 ==== Nordic Genetic Resource Center
 
