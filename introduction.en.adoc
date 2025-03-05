@@ -1,5 +1,5 @@
 [sidebar]
-The 2025 Nodes Implementation Plan has been prepared with the https://www.gbif.org/contact-us/directory?group=nsg[Nodes Steering Group^] in December 2024 and approved in January 2025. It is an update to the https://doi.org/10.35035/doc-091z-ck64[2024 Nodes Implementation Plan^] and aligns with https://www.gbif.org/document/50lI7Bxn2p1vRgpbs7aXaT/[GBIF Strategic Framework 2023-2027^]. It provides a framework for discussions at the Regional Nodes Meetings.
+The 2025 Nodes Implementation Plan has been prepared with the https://www.gbif.org/contact-us/directory?group=nsg[Nodes Steering Group^] in December 2024 and approved in January 2025. It is an update to the https://doi.org/10.35035/doc-ybx9-mw27[2024 Nodes Implementation Plan^] and aligns with https://www.gbif.org/document/50lI7Bxn2p1vRgpbs7aXaT/[GBIF Strategic Framework 2023-2027^]. It provides a framework for discussions at the Regional Nodes Meetings.
 
 == Rationale
 
